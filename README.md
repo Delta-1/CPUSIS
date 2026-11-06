@@ -2,6 +2,8 @@
 
 O ecossistema que guia o seu negócio.
 
+**Abrir o Hub:** https://delta-1.github.io/CPUSIS/
+
 Aplicação responsiva em um único `index.html`, com HTML, CSS e JavaScript incorporados. Sem instalação de dependências, frameworks ou chamadas de terceiros para carregar a interface. Os ícones de interface são derivados do Lucide (licença ISC).
 
 ## Explorar
@@ -9,6 +11,8 @@ Aplicação responsiva em um único `index.html`, com HTML, CSS e JavaScript inc
 - Site institucional com soluções ERP, PDV e automação comercial, apresentação da empresa, suporte e treinamentos.
 - Alternância entre tema claro e escuro, com preferência local.
 - Login de demonstração: **cliente.demo** / **cpusis123**. Também é possível entrar pelo botão **Conhecer a demonstração**.
+- Portal do Colaborador e atalhos de primeiro acesso e suporte na tela de login.
+- PIX com confirmação simulada e status salvo apenas neste navegador, sem realizar transações.
 - Painel Principal, Meus Downloads, Financeiro, Suporte Técnico, Treinamentos, Área do Colaborador e Configurações.
 - Chamados locais com assunto, sistema, prioridade, descrição, filtros e encerramento.
 - Três guias interativos, com progresso salvo no navegador.
@@ -32,7 +36,7 @@ O arquivo também pode ser servido por qualquer servidor estático. Não exige c
 
 ## Validação
 
-JavaScript verificado sintaticamente. Fluxos de acesso de demonstração, criação/encerramento de chamados, avanço/conclusão e persistência de guias, simulação PIX, edição/persistência de perfil e navegação no celular conferidos na interface. Layout mobile verificado em uma área de 390 × 844 px.
+JavaScript verificado sintaticamente. Fluxos de acesso de demonstração, criação/encerramento de chamados, avanço/conclusão e persistência de guias, simulação PIX, edição/persistência de perfil e navegação no celular conferidos na interface. Layout revisado em larguras de 360, 390 e 768 px e em desktop. Confirmação simulada de PIX e persistência do status conferidas após recarregar a página.
 
 ## Próxima etapa
 
